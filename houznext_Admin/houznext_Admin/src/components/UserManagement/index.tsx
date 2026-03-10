@@ -2,6 +2,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/router";
 import { useSession } from "next-auth/react";
+import { Check } from "lucide-react";
 
 import Button from "@/src/common/Button";
 import Loader from "@/src/common/Loader";
