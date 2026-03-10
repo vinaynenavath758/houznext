@@ -83,6 +83,9 @@ importers:
       isomorphic-unfetch:
         specifier: ^4.0.2
         version: 4.0.2
+      javascript-time-ago:
+        specifier: ^2.6.4
+        version: 2.6.4
       jspdf:
         specifier: ^2.5.2
         version: 2.5.2
